@@ -1,2 +1,2 @@
 # Design Patterns
-Basic examples about some design patterns in Java.
+Repository with basic examples about design patterns in Java.
